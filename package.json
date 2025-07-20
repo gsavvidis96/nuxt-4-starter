@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-4-starter",
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "@nuxt/eslint": "^1.6.0",
+    "@nuxt/fonts": "^0.11.4",
+    "@pinia/nuxt": "^0.11.2",
+    "@vee-validate/nuxt": "^4.15.1",
+    "@vee-validate/yup": "^4.15.1",
+    "@vueuse/nuxt": "^13.5.0",
+    "dayjs-nuxt": "^2.1.11",
+    "eslint": "^9.31.0",
+    "nuxt": "^4.0.0",
+    "pinia": "^3.0.3",
+    "sass-embedded": "^1.89.2",
+    "vite-plugin-vuetify": "^2.1.1",
+    "vue": "^3.5.17",
+    "vue-router": "^4.5.1",
+    "vuetify": "^3.9.2",
+    "yup": "^1.6.1"
+  }
+}
